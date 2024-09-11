@@ -57,6 +57,3 @@ Feel free to submit issues and pull requests. Contributions are welcome!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Replace placeholders such as `yourusername`, `your-bucket-name`, and `<version>` with your actual GitHub username, S3 bucket name, and appropriate version number, respectively. Adjust the scripts and configurations as needed based on your specific project setup.
